@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @OwlHowlinMornSky
 - 👀 I’m interested in ...
--   Game developing
+-   C++ game development;
 - 🌱 I’m currently learning ...
--   C++, OpenGL, Database
+-   C++, SFML, OpenGL, Database;
 - 📫 How to reach me ...
--   Mysteryworldgod@qq.com(recommend) / @outlook.com / @gmail.com(not often online)
+-   Mysteryworldgod@qq.com(recommend) / @outlook.com / @gmail.com(not often online);
 
 <!---
 OwlHowlinMornSky/OwlHowlinMornSky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
