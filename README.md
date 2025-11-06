@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ...
 -   C++, OpenGL, Game Development, C#, Database;
 - 📫 How to reach me ...
--   Mysteryworldgod@outlook.com / @qq.com;
+-   TylerTrueZ@outlook.com
 
 <!---
 OwlHowlinMornSky/OwlHowlinMornSky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
